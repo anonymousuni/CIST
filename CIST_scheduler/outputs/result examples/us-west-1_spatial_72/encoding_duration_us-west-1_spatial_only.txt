@@ -1,0 +1,87 @@
+Spatial-only encoding duration
+========================================================================
+
+Run configuration
++---------------------------------+---------------------------+
+| Metric                          | Value                     |
++---------------------------------+---------------------------+
+| Segments scheduled (n_jobs cap) | 3000                      |
+| Segments in this run            | 3000                      |
+| Scheduling start (t_now)        | 2026-05-13 20:00:00+00:00 |
+| max_processing_rate      | 80                        |
+| Mode                            | spatial                   |
++---------------------------------+---------------------------+
+
+Carbon emissions (sum over all segments)
++-----------------------+-------------------------------------+
+| Metric                | Value                               |
++-----------------------+-------------------------------------+
+| Total CO2 (scheduled) | 205321.962 mgCO2  (205.321962 gCO2) |
+| Total CO2 (baseline)  | 67601.223 mgCO2  (67.601223 gCO2)   |
+| Net vs baseline       | -203.7%                             |
++-----------------------+-------------------------------------+
+
+Batches (parallel region × forecast window, up to max_per_slot each)
++----------------------------+-------+
+| Metric                     | Value |
++----------------------------+-------+
+| Forecast windows used      | 6     |
+| Parallel batches (total)   | 38    |
+| Full batches (80 segments) | 37    |
+| Partial batches (<80)      | 1     |
++----------------------------+-------+
+
+Assignment algorithm time (scheduling loop only)
+(excludes loading forecasts/CSV, plotting, and writing outputs)
++-------------+-------------+
+| Metric      | Value       |
++-------------+-------------+
+| Elapsed     | 3.3 seconds |
+| Per segment | 1.100 ms    |
++-------------+-------------+
+
+Encoding time (parallel batches)
+Segments in the same 5-min window encode in parallel; batch duration =
+max(exec_time_s) in that window.
++--------------------------------+-----------------------------------------------------------+
+| Metric                         | Value                                                     |
++--------------------------------+-----------------------------------------------------------+
+| Sum of all segment exec_time_s | 16h 47m 49.2s (60469.2 seconds)  (serial, no parallelism) |
+| Parallel batch encode time     | 7m 28.9s (448.9 seconds)  (sum of slowest per batch)      |
+| Back-to-back batches           | 7m 28.9s (448.9 seconds)  (no idle between batches)       |
+| First batch starts             | 2026-05-13 20:00:00+00:00                                 |
+| Last segment finishes          | 2026-05-13 20:26:10.200000+00:00                          |
++--------------------------------+-----------------------------------------------------------+
+
+Calendar span (includes waiting for deferred forecast slots)
++---------------------------------+------------------------------------------------------+
+| Metric                          | Value                                                |
++---------------------------------+------------------------------------------------------+
+| Wait before first batch         | 0.0 seconds                                          |
+| First batch start → last finish | 26m 10.2s (1570.2 seconds)                           |
+| t_now → last finish             | 26m 10.2s (1570.2 seconds)  (includes deferral wait) |
++---------------------------------+------------------------------------------------------+
+
+Last forecast window
++------------------------+------------------------------------+
+| Metric                 | Value                              |
++------------------------+------------------------------------+
+| Window start           | 2026-05-13 20:25:00+00:00          |
+| Segments in window     | 200                                |
+| Regions used           | ca-central-1, sa-east-1, us-west-1 |
+| Longest exec_time_s    | 70.2                               |
+| Last batch finishes at | 2026-05-13 20:26:10.200000+00:00   |
++------------------------+------------------------------------+
+
+Per-window breakdown (chronological)
++---------------------------+----------+---------+--------------+----------------------------------+------------------------------------------------------------------------------------------------------------+
+| Window start (UTC)        | Segments | Batches | Max exec (s) | Batch ends (UTC)                 | Regions (count)                                                                                            |
++---------------------------+----------+---------+--------------+----------------------------------+------------------------------------------------------------------------------------------------------------+
+| 2026-05-13 20:00:00+00:00 | 560      | 7       | 73.4         | 2026-05-13 20:01:13.400000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(80), us-west-2(80), ca-west-1(80), us-east-1(80), us-east-2(80) |
+| 2026-05-13 20:05:00+00:00 | 560      | 7       | 84.3         | 2026-05-13 20:06:24.300000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(80), us-west-2(80), ca-west-1(80), us-east-1(80), us-east-2(80) |
+| 2026-05-13 20:10:00+00:00 | 560      | 7       | 83.8         | 2026-05-13 20:11:23.800000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(80), us-west-2(80), ca-west-1(80), us-east-1(80), us-east-2(80) |
+| 2026-05-13 20:15:00+00:00 | 560      | 7       | 63.6         | 2026-05-13 20:16:03.600000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(80), us-west-2(80), ca-west-1(80), us-east-1(80), us-east-2(80) |
+| 2026-05-13 20:20:00+00:00 | 560      | 7       | 73.6         | 2026-05-13 20:21:13.600000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(80), us-west-2(80), ca-west-1(80), us-east-1(80), us-east-2(80) |
+| 2026-05-13 20:25:00+00:00 | 200      | 3       | 70.2         | 2026-05-13 20:26:10.200000+00:00 | ca-central-1(80), us-west-1(80), sa-east-1(40)                                                             |
++---------------------------+----------+---------+--------------+----------------------------------+------------------------------------------------------------------------------------------------------------+
+

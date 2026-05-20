@@ -1,0 +1,24 @@
+{
+  "safety_margin": 1.1,
+  "deadline_hours": 72.0,
+  "n_jobs": 3000,
+  "default_local_region": "us-east-1",
+
+  // scheduling_mode — pick ONE:
+  //   "temporal"        — local region only; defer to a lower-CI 5-min slot before deadline
+  //   "spatial"         — cross-region at each window; advance time when all regions are full
+  //   "spatiotemporal"  — compare local deferral vs best (region, time) over the horizon
+  "scheduling_mode": "spatiotemporal",
+
+  "all_regions": [
+    "ca-central-1",
+    "ca-west-1",
+    "sa-east-1",
+    "us-east-1",
+    "us-east-2",
+    "us-west-1",
+    "us-west-2"
+  ],
+  "max_processing_rate": 80
+  //max_processing_rate prediction method > X4-MATCH: Sustainable Prediction-based Distribution of Video Encoding on Cloud and Edge.
+}
