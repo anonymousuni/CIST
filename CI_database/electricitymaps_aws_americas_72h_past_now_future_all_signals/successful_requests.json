@@ -1,0 +1,730 @@
+[
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-1",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_us-east-1_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-1",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_us-east-1_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_us-east-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_us-east-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-east-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-2",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_us-east-2_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-east-2",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_us-east-2_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-east-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_us-east-2_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-east-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-east-2",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_us-east-2_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-1",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_us-west-1_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-1",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_us-west-1_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_us-west-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_us-west-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_us-west-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-2",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_us-west-2_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "us-west-2",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_us-west-2_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_us-west-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_us-west-2_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-2_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-2_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_us-west-2_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "us-west-2",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_us-west-2_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-central-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-central-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-central-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-central-1",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_ca-central-1_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-central-1",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_ca-central-1_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-central-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-central-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-central-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_ca-central-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-central-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-central-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-central-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-central-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_ca-central-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_ca-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-west-1",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_ca-west-1_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "ca-west-1",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_ca-west-1_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_ca-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_ca-west-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-west-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-west-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_ca-west-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "ca-west-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_ca-west-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_sa-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_sa-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "carbon-intensity",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/past-range/aws_sa-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "sa-east-1",
+    "temporality": "latest",
+    "endpoint_used": "carbon-intensity",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/latest/aws_sa-east-1_latest_carbon-intensity.json"
+  },
+  {
+    "signal": "carbon_intensity",
+    "region": "sa-east-1",
+    "temporality": "forecast",
+    "endpoint_used": "carbon-intensity",
+    "rows": 876,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_intensity/forecast/aws_sa-east-1_forecast_72h_5_minutes_carbon-intensity.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_sa-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_sa-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/past-range/aws_sa-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "renewable_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/renewable_energy_percentage/latest/aws_sa-east-1_latest_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_sa-east-1_past_chunk_1_20260510_204000Z_to_20260511_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_sa-east-1_past_chunk_2_20260511_204000Z_to_20260512_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "past-range",
+    "endpoint_used": "power-breakdown",
+    "rows": 288,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/past-range/aws_sa-east-1_past_chunk_3_20260512_204000Z_to_20260513_204000Z_power-breakdown.json"
+  },
+  {
+    "signal": "carbon_free_energy_percentage",
+    "region": "sa-east-1",
+    "temporality": "latest",
+    "endpoint_used": "power-breakdown",
+    "rows": 1,
+    "raw_path": "electricitymaps_aws_americas_72h_past_now_future_all_signals/raw_json/carbon_free_energy_percentage/latest/aws_sa-east-1_latest_power-breakdown.json"
+  }
+]
