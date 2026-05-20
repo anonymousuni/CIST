@@ -1,0 +1,50 @@
+signal_label,region,temporality,rows,min_value,max_value,mean_value,first_time,last_time,zone,endpoint_used,field_used
+Carbon Intensity,ca-central-1,forecast,876,40.0,50.0,44.30936073059361,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,CA-QC,carbon-intensity,carbonIntensity
+Carbon Intensity,ca-central-1,latest,1,45.0,45.0,45.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-QC,carbon-intensity,carbonIntensity
+Carbon Intensity,ca-central-1,past-range,864,43.0,58.0,47.361111111111114,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-QC,carbon-intensity,carbonIntensity
+Carbon Intensity,ca-west-1,forecast,876,299.0,420.0,338.4246575342466,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,CA-AB,carbon-intensity,carbonIntensity
+Carbon Intensity,ca-west-1,latest,1,327.0,327.0,327.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-AB,carbon-intensity,carbonIntensity
+Carbon Intensity,ca-west-1,past-range,864,307.0,446.0,354.93055555555554,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-AB,carbon-intensity,carbonIntensity
+Carbon Intensity,sa-east-1,forecast,876,94.0,112.0,104.17808219178082,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,BR-CS,carbon-intensity,carbonIntensity
+Carbon Intensity,sa-east-1,latest,1,97.0,97.0,97.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,BR-CS,carbon-intensity,carbonIntensity
+Carbon Intensity,sa-east-1,past-range,864,78.0,109.0,96.23148148148148,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,BR-CS,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-1,forecast,876,319.0,385.0,353.2328767123288,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-1,latest,1,316.0,316.0,316.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-1,past-range,864,284.0,396.0,346.3287037037037,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-2,forecast,876,319.0,385.0,353.2328767123288,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-2,latest,1,316.0,316.0,316.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-east-2,past-range,864,284.0,396.0,346.3287037037037,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-1,forecast,876,45.0,192.0,124.20205479452055,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,US-CAL-CISO,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-1,latest,1,72.0,72.0,72.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-CAL-CISO,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-1,past-range,864,48.0,237.0,132.8414351851852,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-CAL-CISO,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-2,forecast,876,159.0,230.0,200.31506849315068,2026-05-13 20:00:00+00:00,2026-05-16 20:55:00+00:00,US-NW-PACW,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-2,latest,1,181.0,181.0,181.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-NW-PACW,carbon-intensity,carbonIntensity
+Carbon Intensity,us-west-2,past-range,864,125.0,226.0,180.89814814814815,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-NW-PACW,carbon-intensity,carbonIntensity
+Carbon-Free Energy Percentage,ca-central-1,latest,1,98.0,98.0,98.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-QC,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,ca-central-1,past-range,864,95.0,98.0,97.46643518518519,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-QC,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,ca-west-1,latest,1,36.0,36.0,36.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-AB,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,ca-west-1,past-range,864,11.0,40.0,29.849537037037038,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-AB,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,sa-east-1,latest,1,89.0,89.0,89.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,BR-CS,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,sa-east-1,past-range,864,87.0,92.0,89.51041666666667,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,BR-CS,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-east-1,latest,1,53.0,53.0,53.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-east-1,past-range,864,43.0,59.0,49.513888888888886,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-east-2,latest,1,53.0,53.0,53.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-east-2,past-range,864,43.0,59.0,49.513888888888886,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-west-1,latest,1,92.0,92.0,92.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-CAL-CISO,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-west-1,past-range,864,58.0,96.0,79.45370370370371,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-CAL-CISO,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-west-2,latest,1,71.0,71.0,71.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-NW-PACW,power-breakdown,fossilFreePercentage
+Carbon-Free Energy Percentage,us-west-2,past-range,864,61.0,80.0,70.52199074074075,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-NW-PACW,power-breakdown,fossilFreePercentage
+Renewable Energy Percentage,ca-central-1,latest,1,97.0,97.0,97.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-QC,power-breakdown,renewablePercentage
+Renewable Energy Percentage,ca-central-1,past-range,864,92.0,97.0,95.88425925925925,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-QC,power-breakdown,renewablePercentage
+Renewable Energy Percentage,ca-west-1,latest,1,36.0,36.0,36.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,CA-AB,power-breakdown,renewablePercentage
+Renewable Energy Percentage,ca-west-1,past-range,864,11.0,40.0,29.85648148148148,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,CA-AB,power-breakdown,renewablePercentage
+Renewable Energy Percentage,sa-east-1,latest,1,86.0,86.0,86.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,BR-CS,power-breakdown,renewablePercentage
+Renewable Energy Percentage,sa-east-1,past-range,864,82.0,89.0,85.46064814814815,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,BR-CS,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-east-1,latest,1,19.0,19.0,19.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-east-1,past-range,864,3.0,23.0,12.837962962962964,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-east-2,latest,1,19.0,19.0,19.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-MIDA-PJM,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-east-2,past-range,864,3.0,23.0,12.837962962962964,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-MIDA-PJM,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-west-1,latest,1,84.0,84.0,84.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-CAL-CISO,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-west-1,past-range,864,48.0,87.0,69.16782407407408,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-CAL-CISO,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-west-2,latest,1,67.0,67.0,67.0,2026-05-13 20:00:00+00:00,2026-05-13 20:00:00+00:00,US-NW-PACW,power-breakdown,renewablePercentage
+Renewable Energy Percentage,us-west-2,past-range,864,58.0,77.0,67.18055555555556,2026-05-10 20:40:00+00:00,2026-05-13 20:35:00+00:00,US-NW-PACW,power-breakdown,renewablePercentage
