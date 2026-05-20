@@ -1,0 +1,2886 @@
+{
+  "zone": "CA-AB",
+  "data": [
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 332,
+      "datetime": "2026-05-12T20:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:13.671Z",
+      "createdAt": "2026-05-12T07:39:08.720Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-12T20:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:49.694Z",
+      "createdAt": "2026-05-12T07:39:41.639Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-12T20:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:50.113Z",
+      "createdAt": "2026-05-12T07:39:41.639Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-12T20:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:50.113Z",
+      "createdAt": "2026-05-12T07:38:33.888Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-12T21:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:39:49.251Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:39:44.124Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:46.636Z",
+      "createdAt": "2026-05-12T07:39:08.713Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:46.636Z",
+      "createdAt": "2026-05-12T07:39:44.124Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-12T21:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:08.717Z",
+      "createdAt": "2026-05-12T07:39:49.251Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 329,
+      "datetime": "2026-05-12T21:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:39:08.713Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 329,
+      "datetime": "2026-05-12T21:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:39:11.770Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 329,
+      "datetime": "2026-05-12T21:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:46.636Z",
+      "createdAt": "2026-05-12T07:39:08.713Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:39:49.251Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.035Z",
+      "createdAt": "2026-05-12T07:39:30.096Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.841Z",
+      "createdAt": "2026-05-12T07:39:11.770Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-12T21:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:39:30.096Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 337,
+      "datetime": "2026-05-12T22:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.747Z",
+      "createdAt": "2026-05-12T07:39:10.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 337,
+      "datetime": "2026-05-12T22:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.086Z",
+      "createdAt": "2026-05-12T07:38:39.984Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 337,
+      "datetime": "2026-05-12T22:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:39:10.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 337,
+      "datetime": "2026-05-12T22:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:51.161Z",
+      "createdAt": "2026-05-12T07:38:40.333Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 341,
+      "datetime": "2026-05-12T22:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:38:51.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-12T22:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:39:31.880Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-12T22:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:04.053Z",
+      "createdAt": "2026-05-12T07:39:10.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-12T22:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.747Z",
+      "createdAt": "2026-05-12T07:38:39.984Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 345,
+      "datetime": "2026-05-12T22:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.086Z",
+      "createdAt": "2026-05-12T07:38:39.984Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-12T22:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:38:39.984Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-12T22:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:39:13.870Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-12T22:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:38:39.984Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-12T23:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:04.053Z",
+      "createdAt": "2026-05-12T07:39:03.209Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 348,
+      "datetime": "2026-05-12T23:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:39:03.209Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 348,
+      "datetime": "2026-05-12T23:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.470Z",
+      "createdAt": "2026-05-12T07:39:50.640Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 348,
+      "datetime": "2026-05-12T23:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.287Z",
+      "createdAt": "2026-05-12T07:38:51.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-12T23:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.470Z",
+      "createdAt": "2026-05-12T07:39:11.573Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-12T23:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:39:45.817Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-12T23:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:39:50.640Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-12T23:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:04.273Z",
+      "createdAt": "2026-05-12T07:39:31.880Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-12T23:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:38:51.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-12T23:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:40.231Z",
+      "createdAt": "2026-05-12T07:39:13.870Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-12T23:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:04.273Z",
+      "createdAt": "2026-05-12T07:38:51.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-12T23:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:38:40.333Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 368,
+      "datetime": "2026-05-13T00:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:02.065Z",
+      "createdAt": "2026-05-12T07:39:47.274Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T00:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.175Z",
+      "createdAt": "2026-05-12T07:38:41.550Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T00:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-12T07:39:04.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T00:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-12T07:38:51.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 376,
+      "datetime": "2026-05-13T00:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.569Z",
+      "createdAt": "2026-05-12T07:39:04.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 379,
+      "datetime": "2026-05-13T00:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-12T07:39:04.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 379,
+      "datetime": "2026-05-13T00:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:35.094Z",
+      "createdAt": "2026-05-12T07:38:41.832Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 379,
+      "datetime": "2026-05-13T00:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:35.094Z",
+      "createdAt": "2026-05-12T07:39:50.640Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 383,
+      "datetime": "2026-05-13T00:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:34.820Z",
+      "createdAt": "2026-05-12T07:39:15.135Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 384,
+      "datetime": "2026-05-13T00:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:02.065Z",
+      "createdAt": "2026-05-12T07:39:47.274Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 384,
+      "datetime": "2026-05-13T00:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.456Z",
+      "createdAt": "2026-05-12T07:38:41.550Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 384,
+      "datetime": "2026-05-13T00:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.456Z",
+      "createdAt": "2026-05-12T07:39:50.640Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 388,
+      "datetime": "2026-05-13T01:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:39:38.591Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 387,
+      "datetime": "2026-05-13T01:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.470Z",
+      "createdAt": "2026-05-12T07:39:24.654Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 387,
+      "datetime": "2026-05-13T01:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:38:53.327Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 387,
+      "datetime": "2026-05-13T01:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:42.030Z",
+      "createdAt": "2026-05-12T07:38:30.372Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 385,
+      "datetime": "2026-05-13T01:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:41.977Z",
+      "createdAt": "2026-05-12T07:39:42.987Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 385,
+      "datetime": "2026-05-13T01:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:06.533Z",
+      "createdAt": "2026-05-12T07:39:42.987Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 385,
+      "datetime": "2026-05-13T01:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:43.027Z",
+      "createdAt": "2026-05-12T07:38:42.645Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 385,
+      "datetime": "2026-05-13T01:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:06.725Z",
+      "createdAt": "2026-05-12T07:39:00.744Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 385,
+      "datetime": "2026-05-13T01:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.470Z",
+      "createdAt": "2026-05-12T07:39:04.334Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 383,
+      "datetime": "2026-05-13T01:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:41.977Z",
+      "createdAt": "2026-05-12T07:39:24.654Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 383,
+      "datetime": "2026-05-13T01:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:51.161Z",
+      "createdAt": "2026-05-12T07:38:30.372Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 383,
+      "datetime": "2026-05-13T01:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:51.161Z",
+      "createdAt": "2026-05-12T07:39:38.591Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 383,
+      "datetime": "2026-05-13T02:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-12T07:39:03.250Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 381,
+      "datetime": "2026-05-13T02:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.764Z",
+      "createdAt": "2026-05-12T07:39:23.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 381,
+      "datetime": "2026-05-13T02:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:49.325Z",
+      "createdAt": "2026-05-12T07:39:03.250Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 381,
+      "datetime": "2026-05-13T02:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:49.325Z",
+      "createdAt": "2026-05-12T07:39:23.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 378,
+      "datetime": "2026-05-13T02:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.292Z",
+      "createdAt": "2026-05-12T07:39:23.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 376,
+      "datetime": "2026-05-13T02:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.764Z",
+      "createdAt": "2026-05-12T07:38:51.736Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 376,
+      "datetime": "2026-05-13T02:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-12T07:38:51.736Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 376,
+      "datetime": "2026-05-13T02:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:38.454Z",
+      "createdAt": "2026-05-12T07:39:00.744Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T02:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:38.267Z",
+      "createdAt": "2026-05-12T07:39:00.744Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T02:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:38.760Z",
+      "createdAt": "2026-05-12T07:39:41.681Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T02:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:02.065Z",
+      "createdAt": "2026-05-12T07:39:23.292Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T02:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:49.325Z",
+      "createdAt": "2026-05-12T07:38:28.823Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T03:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:38:31.360Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 375,
+      "datetime": "2026-05-13T03:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-12T07:38:31.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 375,
+      "datetime": "2026-05-13T03:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:06.533Z",
+      "createdAt": "2026-05-12T07:39:24.654Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 375,
+      "datetime": "2026-05-13T03:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.121Z",
+      "createdAt": "2026-05-12T07:38:55.426Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 366,
+      "datetime": "2026-05-13T03:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:38:31.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 366,
+      "datetime": "2026-05-13T03:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.026Z",
+      "createdAt": "2026-05-12T07:39:44.588Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 366,
+      "datetime": "2026-05-13T03:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:06.533Z",
+      "createdAt": "2026-05-12T07:38:55.426Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 366,
+      "datetime": "2026-05-13T03:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-12T07:39:05.368Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 369,
+      "datetime": "2026-05-13T03:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-12T07:38:31.360Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 369,
+      "datetime": "2026-05-13T03:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.026Z",
+      "createdAt": "2026-05-12T07:39:02.248Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 369,
+      "datetime": "2026-05-13T03:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.865Z",
+      "createdAt": "2026-05-12T07:39:24.654Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 369,
+      "datetime": "2026-05-13T03:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:42.898Z",
+      "createdAt": "2026-05-12T07:38:43.494Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T04:00:00.000Z",
+      "updatedAt": "2026-05-13T18:23:27.060Z",
+      "createdAt": "2026-05-12T07:38:56.940Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T04:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:27.060Z",
+      "createdAt": "2026-05-12T07:38:26.336Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T04:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.984Z",
+      "createdAt": "2026-05-12T07:38:26.365Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T04:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:20.622Z",
+      "createdAt": "2026-05-12T07:38:26.365Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T04:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:27.060Z",
+      "createdAt": "2026-05-12T07:39:40.242Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T04:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.984Z",
+      "createdAt": "2026-05-12T07:38:26.336Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T04:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:57.363Z",
+      "createdAt": "2026-05-12T07:38:26.336Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T04:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:57.363Z",
+      "createdAt": "2026-05-12T07:39:40.242Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 374,
+      "datetime": "2026-05-13T04:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.984Z",
+      "createdAt": "2026-05-12T07:39:40.242Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 377,
+      "datetime": "2026-05-13T04:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:25.194Z",
+      "createdAt": "2026-05-12T07:38:50.027Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 377,
+      "datetime": "2026-05-13T04:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:25.194Z",
+      "createdAt": "2026-05-12T07:39:40.242Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 377,
+      "datetime": "2026-05-13T04:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:25.194Z",
+      "createdAt": "2026-05-12T07:38:26.365Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T05:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.865Z",
+      "createdAt": "2026-05-12T07:38:31.860Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 373,
+      "datetime": "2026-05-13T05:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:39:02.248Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 373,
+      "datetime": "2026-05-13T05:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-12T07:39:44.588Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 373,
+      "datetime": "2026-05-13T05:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.842Z",
+      "createdAt": "2026-05-12T07:39:44.588Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T05:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-12T07:39:05.368Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T05:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.658Z",
+      "createdAt": "2026-05-12T07:38:44.041Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T05:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:38:31.860Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 372,
+      "datetime": "2026-05-13T05:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.544Z",
+      "createdAt": "2026-05-12T07:38:44.041Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T05:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:29.865Z",
+      "createdAt": "2026-05-12T07:39:05.368Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T05:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.658Z",
+      "createdAt": "2026-05-12T07:38:31.860Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T05:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:06.533Z",
+      "createdAt": "2026-05-12T07:38:31.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 371,
+      "datetime": "2026-05-13T05:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:43.606Z",
+      "createdAt": "2026-05-12T07:38:55.426Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T06:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:10.495Z",
+      "createdAt": "2026-05-12T07:38:36.024Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T06:05:00.000Z",
+      "updatedAt": "2026-05-13T06:39:10.196Z",
+      "createdAt": "2026-05-12T07:39:28.686Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T06:10:00.000Z",
+      "updatedAt": "2026-05-13T06:38:31.026Z",
+      "createdAt": "2026-05-12T07:39:09.462Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 370,
+      "datetime": "2026-05-13T06:15:00.000Z",
+      "updatedAt": "2026-05-13T06:39:22.428Z",
+      "createdAt": "2026-05-12T07:38:36.512Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T06:20:00.000Z",
+      "updatedAt": "2026-05-13T13:24:03.397Z",
+      "createdAt": "2026-05-12T07:39:28.686Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T06:25:00.000Z",
+      "updatedAt": "2026-05-13T13:24:03.397Z",
+      "createdAt": "2026-05-12T07:39:47.376Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T06:30:00.000Z",
+      "updatedAt": "2026-05-13T13:24:23.769Z",
+      "createdAt": "2026-05-12T07:39:42.386Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T06:35:00.000Z",
+      "updatedAt": "2026-05-13T13:24:23.769Z",
+      "createdAt": "2026-05-12T07:39:47.376Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T06:40:00.000Z",
+      "updatedAt": "2026-05-13T13:24:28.552Z",
+      "createdAt": "2026-05-12T07:39:47.376Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T06:45:00.000Z",
+      "updatedAt": "2026-05-13T07:24:13.619Z",
+      "createdAt": "2026-05-12T07:39:42.386Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T06:50:00.000Z",
+      "updatedAt": "2026-05-13T07:24:36.200Z",
+      "createdAt": "2026-05-12T07:39:42.386Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T06:55:00.000Z",
+      "updatedAt": "2026-05-13T07:24:13.028Z",
+      "createdAt": "2026-05-12T07:39:09.462Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 365,
+      "datetime": "2026-05-13T07:00:00.000Z",
+      "updatedAt": "2026-05-13T08:24:25.307Z",
+      "createdAt": "2026-05-12T07:38:45.809Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 365,
+      "datetime": "2026-05-13T07:05:00.000Z",
+      "updatedAt": "2026-05-13T07:39:33.410Z",
+      "createdAt": "2026-05-12T07:39:41.298Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 365,
+      "datetime": "2026-05-13T07:10:00.000Z",
+      "updatedAt": "2026-05-13T07:38:28.032Z",
+      "createdAt": "2026-05-12T07:39:05.164Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 365,
+      "datetime": "2026-05-13T07:15:00.000Z",
+      "updatedAt": "2026-05-13T07:39:19.311Z",
+      "createdAt": "2026-05-12T07:39:46.004Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 362,
+      "datetime": "2026-05-13T07:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:47.338Z",
+      "createdAt": "2026-05-12T07:38:45.809Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 362,
+      "datetime": "2026-05-13T07:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:12.404Z",
+      "createdAt": "2026-05-12T07:39:05.164Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 362,
+      "datetime": "2026-05-13T07:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:13.671Z",
+      "createdAt": "2026-05-12T07:39:46.004Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 362,
+      "datetime": "2026-05-13T07:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:35.787Z",
+      "createdAt": "2026-05-12T07:39:07.613Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T07:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:35.787Z",
+      "createdAt": "2026-05-12T07:38:33.888Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T07:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:35.787Z",
+      "createdAt": "2026-05-12T07:38:34.598Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T07:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:49.694Z",
+      "createdAt": "2026-05-12T07:39:27.364Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T07:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:12.404Z",
+      "createdAt": "2026-05-12T07:38:57.231Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T08:00:00.000Z",
+      "updatedAt": "2026-05-13T18:23:52.228Z",
+      "createdAt": "2026-05-12T07:39:36.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T08:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:57.363Z",
+      "createdAt": "2026-05-12T07:38:53.908Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T08:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:52.387Z",
+      "createdAt": "2026-05-12T07:39:06.189Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T08:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:52.228Z",
+      "createdAt": "2026-05-12T07:39:36.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 360,
+      "datetime": "2026-05-13T08:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:51.677Z",
+      "createdAt": "2026-05-12T07:39:18.197Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:52.228Z",
+      "createdAt": "2026-05-12T07:39:48.983Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.160Z",
+      "createdAt": "2026-05-12T07:39:52.143Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.160Z",
+      "createdAt": "2026-05-12T07:39:18.197Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T08:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:51.677Z",
+      "createdAt": "2026-05-12T07:39:06.189Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:14.635Z",
+      "createdAt": "2026-05-12T07:39:14.252Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:42.914Z",
+      "createdAt": "2026-05-12T07:39:36.299Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T08:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:57.363Z",
+      "createdAt": "2026-05-12T07:39:48.983Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T09:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.540Z",
+      "createdAt": "2026-05-13T00:24:09.960Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T09:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:47.988Z",
+      "createdAt": "2026-05-13T00:23:20.260Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T09:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:48.476Z",
+      "createdAt": "2026-05-13T00:23:46.147Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T09:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:47.338Z",
+      "createdAt": "2026-05-13T00:24:07.301Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T09:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:55.749Z",
+      "createdAt": "2026-05-13T00:24:09.960Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T09:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:47.617Z",
+      "createdAt": "2026-05-13T00:23:46.147Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T09:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:47.617Z",
+      "createdAt": "2026-05-13T00:24:09.960Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 358,
+      "datetime": "2026-05-13T09:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:48.476Z",
+      "createdAt": "2026-05-13T00:24:07.301Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T09:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:11.350Z",
+      "createdAt": "2026-05-13T00:23:20.260Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T09:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:55.749Z",
+      "createdAt": "2026-05-13T00:23:19.698Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T09:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.540Z",
+      "createdAt": "2026-05-13T00:23:19.698Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T09:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:33.540Z",
+      "createdAt": "2026-05-13T00:23:46.147Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-13T00:23:10.622Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:05:00.000Z",
+      "updatedAt": "2026-05-13T10:38:15.811Z",
+      "createdAt": "2026-05-13T00:23:10.081Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:10:00.000Z",
+      "updatedAt": "2026-05-13T10:39:03.579Z",
+      "createdAt": "2026-05-13T00:24:01.500Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:15:00.000Z",
+      "updatedAt": "2026-05-13T10:38:55.524Z",
+      "createdAt": "2026-05-13T00:24:01.500Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:20:00.000Z",
+      "updatedAt": "2026-05-13T11:08:54.479Z",
+      "createdAt": "2026-05-13T00:24:13.268Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:25:00.000Z",
+      "updatedAt": "2026-05-13T11:09:26.009Z",
+      "createdAt": "2026-05-13T00:23:58.717Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:30:00.000Z",
+      "updatedAt": "2026-05-13T11:08:54.479Z",
+      "createdAt": "2026-05-13T00:23:10.150Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:35:00.000Z",
+      "updatedAt": "2026-05-13T11:09:14.802Z",
+      "createdAt": "2026-05-13T00:23:37.104Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-13T00:23:10.622Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:44.798Z",
+      "createdAt": "2026-05-13T00:24:13.268Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:44.554Z",
+      "createdAt": "2026-05-13T00:24:13.268Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T10:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:44.638Z",
+      "createdAt": "2026-05-13T00:24:13.268Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:47.499Z",
+      "createdAt": "2026-05-13T03:23:59.805Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:05:00.000Z",
+      "updatedAt": "2026-05-13T11:38:15.805Z",
+      "createdAt": "2026-05-13T03:23:28.260Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:10:00.000Z",
+      "updatedAt": "2026-05-13T11:38:42.366Z",
+      "createdAt": "2026-05-13T03:23:55.384Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:15:00.000Z",
+      "updatedAt": "2026-05-13T11:38:45.594Z",
+      "createdAt": "2026-05-13T03:23:55.384Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T11:20:00.000Z",
+      "updatedAt": "2026-05-13T12:09:22.103Z",
+      "createdAt": "2026-05-13T03:23:54.030Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T11:25:00.000Z",
+      "updatedAt": "2026-05-13T12:09:17.578Z",
+      "createdAt": "2026-05-13T03:23:06.064Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T11:30:00.000Z",
+      "updatedAt": "2026-05-13T12:09:17.578Z",
+      "createdAt": "2026-05-13T03:23:49.687Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T11:35:00.000Z",
+      "updatedAt": "2026-05-13T12:08:29.332Z",
+      "createdAt": "2026-05-13T03:23:28.260Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:40:00.000Z",
+      "updatedAt": "2026-05-13T12:25:21.989Z",
+      "createdAt": "2026-05-13T03:23:59.805Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:45:00.000Z",
+      "updatedAt": "2026-05-13T12:24:09.284Z",
+      "createdAt": "2026-05-13T03:23:55.384Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:50:00.000Z",
+      "updatedAt": "2026-05-13T12:24:35.480Z",
+      "createdAt": "2026-05-13T03:23:49.687Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T11:55:00.000Z",
+      "updatedAt": "2026-05-13T12:24:09.603Z",
+      "createdAt": "2026-05-13T03:23:54.030Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 354,
+      "datetime": "2026-05-13T12:00:00.000Z",
+      "updatedAt": "2026-05-13T13:23:50.408Z",
+      "createdAt": "2026-05-13T04:24:45.833Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-13T12:05:00.000Z",
+      "updatedAt": "2026-05-13T12:39:41.626Z",
+      "createdAt": "2026-05-13T04:24:19.138Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-13T12:10:00.000Z",
+      "updatedAt": "2026-05-13T12:38:44.105Z",
+      "createdAt": "2026-05-13T04:24:47.257Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-13T12:15:00.000Z",
+      "updatedAt": "2026-05-13T12:39:04.855Z",
+      "createdAt": "2026-05-13T04:24:19.138Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 345,
+      "datetime": "2026-05-13T12:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:35.094Z",
+      "createdAt": "2026-05-13T04:24:47.257Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.569Z",
+      "createdAt": "2026-05-13T04:24:18.680Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:01.044Z",
+      "createdAt": "2026-05-13T04:24:19.138Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.456Z",
+      "createdAt": "2026-05-13T04:24:47.257Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 343,
+      "datetime": "2026-05-13T12:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.569Z",
+      "createdAt": "2026-05-13T04:25:15.890Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:01.044Z",
+      "createdAt": "2026-05-13T04:24:45.833Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-13T04:24:18.680Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T12:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:39.569Z",
+      "createdAt": "2026-05-13T04:25:32.805Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 344,
+      "datetime": "2026-05-13T13:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-13T05:23:27.903Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T13:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:39.208Z",
+      "createdAt": "2026-05-13T05:23:21.486Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T13:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-13T05:24:13.821Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T13:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-13T05:23:21.486Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T13:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.764Z",
+      "createdAt": "2026-05-13T05:23:47.399Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 343,
+      "datetime": "2026-05-13T13:25:00.000Z",
+      "updatedAt": "2026-05-13T18:24:04.273Z",
+      "createdAt": "2026-05-13T05:23:44.714Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 343,
+      "datetime": "2026-05-13T13:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:39.020Z",
+      "createdAt": "2026-05-13T05:23:44.714Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 343,
+      "datetime": "2026-05-13T13:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.292Z",
+      "createdAt": "2026-05-13T05:24:19.001Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-13T13:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.764Z",
+      "createdAt": "2026-05-13T05:23:51.333Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T13:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.747Z",
+      "createdAt": "2026-05-13T05:24:19.001Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T13:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:49.325Z",
+      "createdAt": "2026-05-13T05:23:44.714Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T13:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:27.292Z",
+      "createdAt": "2026-05-13T05:24:09.731Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 352,
+      "datetime": "2026-05-13T14:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-13T06:24:18.134Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 354,
+      "datetime": "2026-05-13T14:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.990Z",
+      "createdAt": "2026-05-13T06:23:52.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 354,
+      "datetime": "2026-05-13T14:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:47.499Z",
+      "createdAt": "2026-05-13T06:23:26.214Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 354,
+      "datetime": "2026-05-13T14:15:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.707Z",
+      "createdAt": "2026-05-13T06:24:18.134Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T14:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.990Z",
+      "createdAt": "2026-05-13T06:23:26.214Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T14:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:36.990Z",
+      "createdAt": "2026-05-13T06:24:18.134Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T14:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:47.499Z",
+      "createdAt": "2026-05-13T06:24:31.691Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 357,
+      "datetime": "2026-05-13T14:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:41.142Z",
+      "createdAt": "2026-05-13T06:23:26.848Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 360,
+      "datetime": "2026-05-13T14:40:00.000Z",
+      "updatedAt": "2026-05-13T18:24:01.044Z",
+      "createdAt": "2026-05-13T06:23:55.725Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T14:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-13T06:24:01.277Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T14:50:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-13T06:23:55.725Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 359,
+      "datetime": "2026-05-13T14:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.175Z",
+      "createdAt": "2026-05-13T06:24:01.277Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 362,
+      "datetime": "2026-05-13T15:00:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.632Z",
+      "createdAt": "2026-05-13T06:24:01.904Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:05:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.175Z",
+      "createdAt": "2026-05-13T06:23:38.105Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-13T06:23:52.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.175Z",
+      "createdAt": "2026-05-13T06:23:26.214Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T15:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:02.404Z",
+      "createdAt": "2026-05-13T06:23:26.916Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T15:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.632Z",
+      "createdAt": "2026-05-13T06:23:57.729Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T15:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.632Z",
+      "createdAt": "2026-05-13T06:23:38.105Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 363,
+      "datetime": "2026-05-13T15:35:00.000Z",
+      "updatedAt": "2026-05-13T18:24:25.806Z",
+      "createdAt": "2026-05-13T06:23:52.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:37.632Z",
+      "createdAt": "2026-05-13T06:23:26.214Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:45:00.000Z",
+      "updatedAt": "2026-05-13T16:24:06.294Z",
+      "createdAt": "2026-05-13T06:23:52.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:50:00.000Z",
+      "updatedAt": "2026-05-13T16:23:47.880Z",
+      "createdAt": "2026-05-13T06:23:52.800Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 364,
+      "datetime": "2026-05-13T15:55:00.000Z",
+      "updatedAt": "2026-05-13T16:24:06.294Z",
+      "createdAt": "2026-05-13T06:23:26.916Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T16:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:22.920Z",
+      "createdAt": "2026-05-13T06:23:50.668Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T16:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.062Z",
+      "createdAt": "2026-05-13T06:23:48.182Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T16:10:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.062Z",
+      "createdAt": "2026-05-13T06:23:50.668Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T16:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:22.920Z",
+      "createdAt": "2026-05-13T06:23:23.007Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T16:20:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.371Z",
+      "createdAt": "2026-05-13T06:23:07.709Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T16:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.062Z",
+      "createdAt": "2026-05-13T06:23:43.436Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T16:30:00.000Z",
+      "updatedAt": "2026-05-13T18:24:22.821Z",
+      "createdAt": "2026-05-13T06:24:24.780Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 350,
+      "datetime": "2026-05-13T16:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.062Z",
+      "createdAt": "2026-05-13T06:23:23.007Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 348,
+      "datetime": "2026-05-13T16:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:58.288Z",
+      "createdAt": "2026-05-13T06:23:23.007Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 346,
+      "datetime": "2026-05-13T16:45:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.062Z",
+      "createdAt": "2026-05-13T06:23:43.436Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 346,
+      "datetime": "2026-05-13T16:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:33.371Z",
+      "createdAt": "2026-05-13T06:23:07.646Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 346,
+      "datetime": "2026-05-13T16:55:00.000Z",
+      "updatedAt": "2026-05-13T18:24:22.920Z",
+      "createdAt": "2026-05-13T06:23:07.646Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T17:00:00.000Z",
+      "updatedAt": "2026-05-13T18:24:08.717Z",
+      "createdAt": "2026-05-13T07:38:25.327Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T17:05:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.653Z",
+      "createdAt": "2026-05-13T07:38:25.327Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T17:10:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.841Z",
+      "createdAt": "2026-05-13T07:38:51.874Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 353,
+      "datetime": "2026-05-13T17:15:00.000Z",
+      "updatedAt": "2026-05-13T18:24:54.339Z",
+      "createdAt": "2026-05-13T07:38:53.772Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 356,
+      "datetime": "2026-05-13T17:20:00.000Z",
+      "updatedAt": "2026-05-13T18:24:08.717Z",
+      "createdAt": "2026-05-13T07:38:24.827Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 355,
+      "datetime": "2026-05-13T17:25:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.075Z",
+      "createdAt": "2026-05-13T07:38:53.772Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 355,
+      "datetime": "2026-05-13T17:30:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.585Z",
+      "createdAt": "2026-05-13T07:38:51.874Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 355,
+      "datetime": "2026-05-13T17:35:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.075Z",
+      "createdAt": "2026-05-13T07:38:53.772Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T17:40:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.653Z",
+      "createdAt": "2026-05-13T07:38:51.874Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T17:45:00.000Z",
+      "updatedAt": "2026-05-13T18:24:31.841Z",
+      "createdAt": "2026-05-13T07:39:30.127Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T17:50:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.075Z",
+      "createdAt": "2026-05-13T07:38:53.772Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 342,
+      "datetime": "2026-05-13T17:55:00.000Z",
+      "updatedAt": "2026-05-13T18:23:45.585Z",
+      "createdAt": "2026-05-13T07:38:25.327Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 336,
+      "datetime": "2026-05-13T18:00:00.000Z",
+      "updatedAt": "2026-05-13T19:23:21.478Z",
+      "createdAt": "2026-05-13T07:39:39.746Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 336,
+      "datetime": "2026-05-13T18:05:00.000Z",
+      "updatedAt": "2026-05-13T18:38:45.951Z",
+      "createdAt": "2026-05-13T07:39:27.691Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 336,
+      "datetime": "2026-05-13T18:10:00.000Z",
+      "updatedAt": "2026-05-13T18:39:09.452Z",
+      "createdAt": "2026-05-13T07:39:27.691Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 336,
+      "datetime": "2026-05-13T18:15:00.000Z",
+      "updatedAt": "2026-05-13T18:39:47.951Z",
+      "createdAt": "2026-05-13T07:39:02.705Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-13T18:20:00.000Z",
+      "updatedAt": "2026-05-13T19:08:12.304Z",
+      "createdAt": "2026-05-13T07:38:39.213Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-13T18:25:00.000Z",
+      "updatedAt": "2026-05-13T19:08:12.304Z",
+      "createdAt": "2026-05-13T07:38:40.180Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-13T18:30:00.000Z",
+      "updatedAt": "2026-05-13T19:08:12.051Z",
+      "createdAt": "2026-05-13T07:39:26.970Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 331,
+      "datetime": "2026-05-13T18:35:00.000Z",
+      "updatedAt": "2026-05-13T19:08:12.051Z",
+      "createdAt": "2026-05-13T07:39:39.746Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 332,
+      "datetime": "2026-05-13T18:40:00.000Z",
+      "updatedAt": "2026-05-13T19:23:21.957Z",
+      "createdAt": "2026-05-13T07:39:02.705Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 332,
+      "datetime": "2026-05-13T18:45:00.000Z",
+      "updatedAt": "2026-05-13T19:24:04.998Z",
+      "createdAt": "2026-05-13T07:39:26.970Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 332,
+      "datetime": "2026-05-13T18:50:00.000Z",
+      "updatedAt": "2026-05-13T19:24:11.272Z",
+      "createdAt": "2026-05-13T07:39:26.970Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 332,
+      "datetime": "2026-05-13T18:55:00.000Z",
+      "updatedAt": "2026-05-13T19:23:21.478Z",
+      "createdAt": "2026-05-13T07:39:26.970Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-13T19:00:00.000Z",
+      "updatedAt": "2026-05-13T20:23:43.872Z",
+      "createdAt": "2026-05-13T07:39:34.071Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-13T19:05:00.000Z",
+      "updatedAt": "2026-05-13T19:38:24.853Z",
+      "createdAt": "2026-05-13T07:39:07.581Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-13T19:10:00.000Z",
+      "updatedAt": "2026-05-13T19:38:52.136Z",
+      "createdAt": "2026-05-13T07:39:42.986Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 330,
+      "datetime": "2026-05-13T19:15:00.000Z",
+      "updatedAt": "2026-05-13T19:38:51.247Z",
+      "createdAt": "2026-05-13T07:39:07.581Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T19:20:00.000Z",
+      "updatedAt": "2026-05-13T20:09:03.167Z",
+      "createdAt": "2026-05-13T07:39:42.986Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T19:25:00.000Z",
+      "updatedAt": "2026-05-13T20:09:35.039Z",
+      "createdAt": "2026-05-13T07:39:34.071Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T19:30:00.000Z",
+      "updatedAt": "2026-05-13T20:09:28.310Z",
+      "createdAt": "2026-05-13T07:39:30.889Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T19:35:00.000Z",
+      "updatedAt": "2026-05-13T20:08:37.283Z",
+      "createdAt": "2026-05-13T07:38:43.927Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 323,
+      "datetime": "2026-05-13T19:40:00.000Z",
+      "updatedAt": "2026-05-13T20:23:14.466Z",
+      "createdAt": "2026-05-13T07:39:30.889Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 323,
+      "datetime": "2026-05-13T19:45:00.000Z",
+      "updatedAt": "2026-05-13T20:23:08.103Z",
+      "createdAt": "2026-05-13T07:39:42.986Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 323,
+      "datetime": "2026-05-13T19:50:00.000Z",
+      "updatedAt": "2026-05-13T20:23:37.820Z",
+      "createdAt": "2026-05-13T07:39:30.889Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 323,
+      "datetime": "2026-05-13T19:55:00.000Z",
+      "updatedAt": "2026-05-13T20:23:43.872Z",
+      "createdAt": "2026-05-13T07:39:07.581Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 325,
+      "datetime": "2026-05-13T20:00:00.000Z",
+      "updatedAt": "2026-05-13T20:39:22.626Z",
+      "createdAt": "2026-05-13T07:39:37.988Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:05:00.000Z",
+      "updatedAt": "2026-05-13T20:38:53.675Z",
+      "createdAt": "2026-05-13T07:38:37.118Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:10:00.000Z",
+      "updatedAt": "2026-05-13T20:39:22.653Z",
+      "createdAt": "2026-05-13T07:38:59.253Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:15:00.000Z",
+      "updatedAt": "2026-05-13T20:38:53.675Z",
+      "createdAt": "2026-05-13T07:38:36.087Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:20:00.000Z",
+      "updatedAt": "2026-05-13T20:39:33.381Z",
+      "createdAt": "2026-05-13T07:39:25.763Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:25:00.000Z",
+      "updatedAt": "2026-05-13T20:38:59.560Z",
+      "createdAt": "2026-05-13T07:38:59.253Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:30:00.000Z",
+      "updatedAt": "2026-05-13T20:39:44.408Z",
+      "createdAt": "2026-05-13T07:39:37.988Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    },
+    {
+      "zone": "CA-AB",
+      "carbonIntensity": 327,
+      "datetime": "2026-05-13T20:35:00.000Z",
+      "updatedAt": "2026-05-13T20:38:53.675Z",
+      "createdAt": "2026-05-13T07:38:36.087Z",
+      "emissionFactorType": "lifecycle",
+      "isEstimated": false,
+      "estimationMethod": null
+    }
+  ],
+  "temporalGranularity": "5_minutes"
+}

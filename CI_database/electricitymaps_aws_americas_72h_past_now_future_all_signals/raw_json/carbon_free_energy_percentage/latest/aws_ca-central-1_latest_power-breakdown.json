@@ -1,0 +1,51 @@
+{
+  "zone": "CA-QC",
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:39:11.516Z",
+  "createdAt": "2026-05-13T07:38:26.527Z",
+  "powerConsumptionBreakdown": {
+    "nuclear": 207,
+    "geothermal": 0,
+    "biomass": 854,
+    "coal": 9,
+    "wind": 803,
+    "solar": 9,
+    "hydro": 16103,
+    "gas": 379,
+    "oil": 0,
+    "unknown": 18,
+    "hydro discharge": 0,
+    "battery discharge": 0
+  },
+  "powerProductionBreakdown": {
+    "nuclear": null,
+    "geothermal": null,
+    "biomass": 970,
+    "coal": null,
+    "wind": 821,
+    "solar": 0,
+    "hydro": 18115,
+    "gas": null,
+    "oil": null,
+    "unknown": null,
+    "hydro discharge": null,
+    "battery discharge": null
+  },
+  "powerImportBreakdown": {
+    "CA-NB": 122,
+    "CA-ON": 1221,
+    "US-NY-NYIS": 985
+  },
+  "powerExportBreakdown": {
+    "US-NE-ISNE": 1167
+  },
+  "fossilFreePercentage": 98,
+  "renewablePercentage": 97,
+  "powerConsumptionTotal": 18382,
+  "powerProductionTotal": 19906,
+  "powerImportTotal": 985,
+  "powerExportTotal": 2509,
+  "isEstimated": true,
+  "estimationMethod": "TIME_SLICER_AVERAGE",
+  "temporalGranularity": "hourly"
+}

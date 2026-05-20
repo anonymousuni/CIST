@@ -1,0 +1,53 @@
+{
+  "zone": "US-NW-PACW",
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:39:06.055Z",
+  "createdAt": "2026-05-13T07:38:24.046Z",
+  "powerConsumptionBreakdown": {
+    "nuclear": 103,
+    "geothermal": 0,
+    "biomass": 2,
+    "coal": 34,
+    "wind": 361,
+    "solar": 426,
+    "hydro": 860,
+    "gas": 630,
+    "oil": 2,
+    "unknown": 58,
+    "hydro discharge": 0,
+    "battery discharge": 0
+  },
+  "powerProductionBreakdown": {
+    "nuclear": null,
+    "geothermal": null,
+    "biomass": null,
+    "coal": null,
+    "wind": 148,
+    "solar": 415,
+    "hydro": 0,
+    "gas": 616,
+    "oil": null,
+    "unknown": 43,
+    "hydro discharge": null,
+    "battery discharge": null
+  },
+  "powerImportBreakdown": {
+    "US-NW-PGE": 45,
+    "US-NW-IPCO": 100
+  },
+  "powerExportBreakdown": {
+    "US-NW-AVA": 179,
+    "US-NW-BPAT": 1057,
+    "US-NW-GCPD": 73,
+    "US-CAL-CISO": 1
+  },
+  "fossilFreePercentage": 71,
+  "renewablePercentage": 67,
+  "powerConsumptionTotal": 2477,
+  "powerProductionTotal": 1221,
+  "powerImportTotal": 1356,
+  "powerExportTotal": 100,
+  "isEstimated": true,
+  "estimationMethod": "TIME_SLICER_AVERAGE",
+  "temporalGranularity": "hourly"
+}

@@ -1,0 +1,11 @@
+{
+  "zone": "CA-AB",
+  "carbonIntensity": 327,
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:39:11.516Z",
+  "createdAt": "2026-05-13T07:38:24.046Z",
+  "emissionFactorType": "lifecycle",
+  "isEstimated": false,
+  "estimationMethod": null,
+  "temporalGranularity": "hourly"
+}

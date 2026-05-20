@@ -1,0 +1,11 @@
+{
+  "zone": "BR-CS",
+  "carbonIntensity": 97,
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:38:37.480Z",
+  "createdAt": "2026-05-13T12:24:46.963Z",
+  "emissionFactorType": "lifecycle",
+  "isEstimated": true,
+  "estimationMethod": "TIME_SLICER_AVERAGE",
+  "temporalGranularity": "hourly"
+}

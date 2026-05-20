@@ -1,0 +1,50 @@
+{
+  "zone": "BR-CS",
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:38:37.480Z",
+  "createdAt": "2026-05-13T12:24:46.963Z",
+  "powerConsumptionBreakdown": {
+    "nuclear": 1633,
+    "geothermal": 0,
+    "biomass": 0,
+    "coal": 0,
+    "wind": 1696,
+    "solar": 5186,
+    "hydro": 34064,
+    "gas": 0,
+    "oil": 0,
+    "unknown": 5031,
+    "hydro discharge": 0,
+    "battery discharge": 0
+  },
+  "powerProductionBreakdown": {
+    "nuclear": 2007,
+    "geothermal": null,
+    "biomass": null,
+    "coal": null,
+    "wind": 96,
+    "solar": 5440,
+    "hydro": 33673,
+    "gas": null,
+    "oil": null,
+    "unknown": 4879,
+    "hydro discharge": null,
+    "battery discharge": null
+  },
+  "powerImportBreakdown": {
+    "BR-N": 7991,
+    "BR-NE": 4426
+  },
+  "powerExportBreakdown": {
+    "BR-S": 10902
+  },
+  "fossilFreePercentage": 89,
+  "renewablePercentage": 86,
+  "powerConsumptionTotal": 47610,
+  "powerProductionTotal": 46095,
+  "powerImportTotal": 12417,
+  "powerExportTotal": 10902,
+  "isEstimated": true,
+  "estimationMethod": "TIME_SLICER_AVERAGE",
+  "temporalGranularity": "hourly"
+}

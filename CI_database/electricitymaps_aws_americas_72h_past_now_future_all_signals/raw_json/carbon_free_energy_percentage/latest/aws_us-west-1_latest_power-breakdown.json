@@ -1,0 +1,58 @@
+{
+  "zone": "US-CAL-CISO",
+  "datetime": "2026-05-13T20:00:00.000Z",
+  "updatedAt": "2026-05-13T20:39:06.055Z",
+  "createdAt": "2026-05-13T07:38:24.046Z",
+  "powerConsumptionBreakdown": {
+    "nuclear": 1888,
+    "geothermal": 624,
+    "biomass": 258,
+    "coal": 150,
+    "wind": 1316,
+    "solar": 16642,
+    "hydro": 934,
+    "gas": 1734,
+    "oil": 1,
+    "unknown": 39,
+    "hydro discharge": 0,
+    "battery discharge": 8
+  },
+  "powerProductionBreakdown": {
+    "nuclear": 2275,
+    "geothermal": 718,
+    "biomass": 344,
+    "coal": 0,
+    "wind": 1538,
+    "solar": 21212,
+    "hydro": 1148,
+    "gas": 1669,
+    "oil": null,
+    "unknown": 0,
+    "hydro discharge": null,
+    "battery discharge": -4759
+  },
+  "powerImportBreakdown": {
+    "MX": 307,
+    "US-CAL-IID": 314,
+    "US-NW-NEVP": 716,
+    "US-SW-AZPS": 1359,
+    "US-CAL-BANC": 819,
+    "US-CAL-LDWP": 303
+  },
+  "powerExportBreakdown": {
+    "US-SW-SRP": 1227,
+    "US-NW-BPAT": 73,
+    "US-NW-PACW": 1,
+    "US-SW-WALC": 237,
+    "US-CAL-TIDC": 580
+  },
+  "fossilFreePercentage": 92,
+  "renewablePercentage": 84,
+  "powerConsumptionTotal": 23593,
+  "powerProductionTotal": 28904,
+  "powerImportTotal": 2692,
+  "powerExportTotal": 3243,
+  "isEstimated": false,
+  "estimationMethod": null,
+  "temporalGranularity": "hourly"
+}
